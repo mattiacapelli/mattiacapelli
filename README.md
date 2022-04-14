@@ -1,4 +1,1 @@
-- 👋 Mattia Capelli
-- 💻 Learning Developer and Video Making
-- 🚩 Based in Bergamo
-- 🔔 16 y.o
+
