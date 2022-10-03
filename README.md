@@ -1,4 +1,4 @@
-### <div align="center">I'm Mattia Capelli, a Junior Developer 👨‍💻</div>  
+### <div align="center">I'm Mattia Capelli, a Junior Developer 👨‍💻 based in Italy🍕</div>  
   
 
 <br/>  
