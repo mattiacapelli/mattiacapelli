@@ -35,8 +35,6 @@
 ###
 
 <h2 align="left">Support<h2>
- 
-###
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/mattiacapelli" target="_blank" style="display: inline-block;">
