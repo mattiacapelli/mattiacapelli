@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mattia Capelli and I'm a Junior Developer 💻, from Italy 🍕</p>
+<p align="left">My name is Mattia Capelli and I'm a Junior Developer, from Italy 🍕</p>
 
 ###
 
