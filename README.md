@@ -27,9 +27,9 @@ mattiacapelli: {
             c: ["Arduino"]
         },
         databases: ["mongo", "MySql"],
-        misc: ["Socket.IO", "selenium", "open-cv"]
+        misc: ["Socket.IO", "open-cv"]
     },
-    currentFocus: "Backend development",
-    funFact: "I'm a simple bug developer"
+    currentFocus: "Backend development", "Artificial Intelligence"
+    funFact: "I'm a professional bug developer"
 }
 ```
