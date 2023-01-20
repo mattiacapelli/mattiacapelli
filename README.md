@@ -1,45 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## Mattia Capelli
 
-###
+I.T. Student & Junior Developer based in italy.
 
-<p align="left">My name is Mattia Capelli and I'm a Junior Developer, from Italy 🍕</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Mattia%20Capelli-6633cc?style=?style=for-the-badge&color=yellow&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-okeya-45a38510a/)](https://www.linkedin.com/in/jesse-okeya-45a38510a/) 
 
-###
+[![Mail Badge](https://img.shields.io/badge/-me@mattiacapelli.it-6633cc?style=?style=for-the-badge&color=yellow&logo=Gmail&logoColor=white&link=mailto:me@mattiacapelli.it)](mailto:me@mattiacapelli.it)
 
-<h2 align="left">About me</h2>
+[![Instagram Badge](https://img.shields.io/badge/-mattia__capelli-6633cc?style=?style=for-the-badge&color=yellow&logo=Instagram&logoColor=white&link=https://www.instagram.com/mattia__capelli)](https://www.instagram.com/mattia__capelli)
 
-###
+I am a junior developer. Since I was a child, I have always been passionate about technology and programming. Today, I try to help people while also satisfying my passion by developing software and technologies to the best of my ability.
 
-<p align="left">I'm passionate about building excellent software that improves the lives of those around me.</p>
+Interests: Backend development, Distributed Systems, Artificial Intelligence, Machine learning, IOT.
 
-###
+**I'm an Early 🐤** 
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
-</div>
-
-###
-
-<h2 align="left">Support<h2>
-            <a href="https://www.buymeacoffee.com/mattiacapelli" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
-
-
+```json
+mattiacapelli: {
+    code: ["Javascript", "Typescript", "Python", "Java", "C++", "C#", "C", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            c++: ["Qt"]
+            php: ["Laravel"]
+            c#: [".NET Core"]
+            c: ["Arduino"]
+        },
+        databases: ["mongo", "MySql"],
+        misc: ["Socket.IO", "selenium", "open-cv"]
+    },
+    currentFocus: "Backend development",
+    funFact: "I'm a simple bug developer"
+}
+```
