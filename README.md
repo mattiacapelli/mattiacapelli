@@ -16,7 +16,7 @@ Interests: Backend development, Distributed Systems, Artificial Intelligence, Ma
 
 ```text
 mattiacapelli: {
-    code: ["Javascript", "Typescript", "Python", "Java", "C++", "C#", "C", "PHP"],
+    code: ["Javascript", "Typescript", "Python", "C++", "C#", "C", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
