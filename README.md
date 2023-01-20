@@ -30,6 +30,5 @@ mattiacapelli: {
         misc: ["Socket.IO", "open-cv"]
     },
     currentFocus: "Backend development", "Artificial Intelligence"
-    funFact: "I'm a professional bug developer"
 }
 ```
