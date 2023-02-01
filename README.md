@@ -32,3 +32,15 @@ mattiacapelli: {
     currentFocus: "Backend development", "Artificial Intelligence"
 }
 ```
+
+## Stats
+    
+[![Mattia Capelli's github stats](https://github-readme-stats.vercel.app/api?username=mattiacapelli&show_icons=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiacapelli&layout=compact)]()
+
+## Donate
+
+If you want to support me, you can donate me a coffee ☕️
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mattiacapellii)
+[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg)](https://www.buymeacoffee.com/mattiacapelli)
