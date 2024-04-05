@@ -20,7 +20,7 @@ mattiacapelli: {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "React"],
             c++: ["Qt"]
             php: ["Laravel"]
             c#: [".NET Core"]
