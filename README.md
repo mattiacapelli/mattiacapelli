@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm a Junior Developer
+I'm a Developer
 
-I have been passionate about technology and programming since childhood. Today, I channel that passion into creating impactful software solutions, striving to help others through my technical skills. As a junior developer, I am dedicated to continuously expanding my knowledge and contributing to innovative projects in various domains.
+I have been passionate about technology and programming since childhood. Today, I channel that passion into creating impactful software solutions, striving to help others through my technical skills. As a developer, I am dedicated to continuously expanding my knowledge and contributing to innovative projects in various domains.
 
 Key Interests:
 
