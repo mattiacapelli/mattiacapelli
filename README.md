@@ -15,10 +15,5 @@ JavaScript • Node.js • React • React Native • Express • MongoDB • Do
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mattiacapelli&theme=dark&hide_border=true&show_icons=true)
-
----
-
 > “Code. Learn. Build. Repeat.”
 
