@@ -6,7 +6,7 @@ Focused on **Backend Development**, **AI**, and **IoT**.
 ---
 
 ## 🌐 Connect with me  
-[Instagram](https://instagram.com/mattia__capelli) • [LinkedIn](https://linkedin.com/in/mattia-capelli)
+[Instagram](https://instagram.com/mattia__capelli) • [LinkedIn](https://linkedin.com/in/mattia-capelli • [Website](https://www.mattiacapelli.it) • [Email](mailto:me@mattiacapelli.it)
 
 ---
 
